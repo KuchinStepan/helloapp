@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("hello everyone");
-//Console.ReadKey();
+﻿<<<<<<< HEAD
+
 =======
 ﻿
 public class HelloWorld1
@@ -15,7 +13,7 @@ public class HelloWorld1
     public static void Main()
     {
         // See https://aka.ms/new-console-template for more information
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
         //Console.ReadKey();
     }
 }
