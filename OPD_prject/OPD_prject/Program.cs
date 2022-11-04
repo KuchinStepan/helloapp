@@ -14,12 +14,19 @@ public class HelloWorld1
         Console.WriteLine("hello black");
     }
 
+    public static void greetWhite()
+    {
+        Console.WriteLine("hello white");
+    }
+
 
     public static void Main()
     {
         // See https://aka.ms/new-console-template for more information
         Console.WriteLine("hello everyone");
         //Console.ReadKey();
+        greetBlack();
+        greetWhite();
     }
 }
 >>>>>>> ab4b6f6450782a9f17a51bba883e9485030f8b5b
