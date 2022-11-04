@@ -9,6 +9,11 @@ public class HelloWorld1
         Console.WriteLine("hello");
     }
 
+    public static void greetBlack()
+    {
+        Console.WriteLine("hello black");
+    }
+
 
     public static void Main()
     {
